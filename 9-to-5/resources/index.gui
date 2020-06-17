@@ -1,0 +1,26 @@
+<svg class="background"> 
+  <image id="background" href="#" width="100%" height="100%"/>
+  <image id="overlay" href="images/other/overlay-rework-again.png" width="100%" height="100%"/>
+  
+  <text id="clockText" x="50%" y="16%">Def</text>
+  
+  <image id="heartEKG" href="#" x="0" y="80%" width="74" height="74"/>
+  <image id="heartImage" href="images/other/heart.png" x="8%" y="78%" width="26" height="26"/>
+  <text id="heartText" x="12%" y="96%">Def</text>
+  
+  <image id="stepsImage" href="images/other/footprints.png" x="32%" y="78%" width="30" height="30"/>
+  <text id="stepsText" x="38%" y="96%">Def</text>
+  
+  <image id="floorsImage" href="images/other/ladder.png" x="58%" y="78%" width="30" height="30"/>
+  <text id="floorsText" x="63%" y="96%">Def</text>
+  
+  <image id="calsImage" href="#" x="78%" y="72%" width="60" height="60"/>
+  <text id="calsText" x="88%" y="96%">Def</text>
+  
+  <text id="tempText" x="86%" y="12%">Def</text>
+  
+  <image id="speedImage" href="images/other/speedometer.png" x="4%" y="2%" width="50" height="50"/>
+  <arc x="14" y="8" width="46" height="46" fill="#333333" arc-width="3" start-angle="225" sweep-angle="270" />
+  <arc id="speedRing" x="14" y="8" width="46" height="46" fill="green" arc-width="3" start-angle="225" sweep-angle="0" />
+  <text id="speedText" x="12%" y="12%">0</text>
+</svg>

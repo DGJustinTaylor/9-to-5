@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "72e0ae13-8816-4f2a-9242-1f27d3a34d0a",
+    "appType": "clockface",
+    "appDisplayName": "9to5",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#8bc34a",
+    "requestedPermissions": [
+      "access_location",
+      "access_heart_rate",
+      "access_activity",
+      "access_internet"
+    ],
+    "buildTargets": [
+      "meson",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "9to5"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.0.0"
+  }
+}

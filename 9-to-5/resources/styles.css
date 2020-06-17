@@ -1,0 +1,16 @@
+text {
+  fill: white;
+  font-size: 22;
+  font-family: System-Regular;
+  font-weight: bold;
+  text-anchor: middle;
+  text-length: 99;
+}
+
+#clockText {
+  font-size: 56;
+}
+
+#speedText {
+  font-size: 18;
+}
